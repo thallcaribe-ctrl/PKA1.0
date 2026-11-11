@@ -1,0 +1,397 @@
+{
+  "source": "loot-real.json; IDs normalizados, sem leitura de processo",
+  "frames": [
+    {
+      "at": 0.0,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 100,
+          "position": {
+            "x": 2971,
+            "y": 2293,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 0.10457070000120439,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 100,
+          "position": {
+            "x": 2971,
+            "y": 2292,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 1.231682700003148,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 100,
+          "position": {
+            "x": 2971,
+            "y": 2291,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 1.567903999995906,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 100,
+          "position": {
+            "x": 2971,
+            "y": 2290,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 1.8569048000063049,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 100,
+          "position": {
+            "x": 2971,
+            "y": 2289,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 2.0733588000002783,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 85,
+          "position": {
+            "x": 2971,
+            "y": 2289,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 2.1772512000025017,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 66,
+          "position": {
+            "x": 2970,
+            "y": 2289,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 2.281063300004462,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 64,
+          "position": {
+            "x": 2970,
+            "y": 2289,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 2.6180879000021378,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 64,
+          "position": {
+            "x": 2970,
+            "y": 2288,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 2.7221361999982037,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 7,
+          "position": {
+            "x": 2970,
+            "y": 2288,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 3.044391600007657,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 6,
+          "position": {
+            "x": 2970,
+            "y": 2288,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 3.7184173999994528,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 6,
+          "position": {
+            "x": 2970,
+            "y": 2288,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 4.1271167999948375,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 6,
+          "position": {
+            "x": 2969,
+            "y": 2288,
+            "z": 7
+          },
+          "active": true,
+          "death_confirmed": false,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    },
+    {
+      "at": 4.336419600003865,
+      "player": {
+        "id": 196608,
+        "position": {
+          "x": 2968,
+          "y": 2288,
+          "z": 7
+        }
+      },
+      "creatures": [
+        {
+          "name": "Pidgey",
+          "hp": 0,
+          "position": {
+            "x": 2969,
+            "y": 2288,
+            "z": 7
+          },
+          "active": false,
+          "death_confirmed": true,
+          "creature_type": 1,
+          "kind": "monster",
+          "network_id": 1074474242,
+          "id": 131072
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "exe": "PokeAlliance_dx.exe",
+  "sha256": "48c41bd4422842e7a73890c4e65fc0714beb80c191ca274612a86ebe27b0ac2b",
+  "offsets": {
+    "x": 32,
+    "y": 36,
+    "z": 40,
+    "name": 112,
+    "health_candidate": 176
+  },
+  "position_verified": true,
+  "health_verified": false
+}
